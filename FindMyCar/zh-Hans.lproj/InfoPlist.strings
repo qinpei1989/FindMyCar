@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  FindMyCar
+
+  Created by Pei Qin on 08/08/2017.
+  Copyright © 2017 Pei Qin. All rights reserved.
+*/
+"NSLocationWhenInUseUsageDescription" = "此应用需要您的位置信息来找到停车点";
+
+"CFBundleDisplayName" = "找车子";

@@ -1,0 +1,51 @@
+
+/* Class = "UIBarButtonItem"; title = "Map"; ObjectID = "5fu-cj-5YI"; */
+"5fu-cj-5YI.title" = "Map";
+
+/* Class = "UILabel"; text = "Accuracy: ~1000 miles"; ObjectID = "9e3-0K-jVx"; */
+"9e3-0K-jVx.text" = "Accuracy: ~1000 miles";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "ACT-Ah-HZd"; */
+"ACT-Ah-HZd.text" = "Date";
+
+/* Class = "UILabel"; text = "Tap one location to find your car"; ObjectID = "AhX-V7-SbS"; */
+"AhX-V7-SbS.text" = "Tap one location to find your car";
+
+/* Class = "UINavigationItem"; title = "Find My Car"; ObjectID = "BJn-ov-XJp"; */
+"BJn-ov-XJp.title" = "Find My Car";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "C0e-I7-L2n"; */
+"C0e-I7-L2n.text" = "Address";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "EL0-Zs-rZS"; */
+"EL0-Zs-rZS.title" = "Map";
+
+/* Class = "UILabel"; text = "Tap here to park your car"; ObjectID = "R1S-qY-WBT"; */
+"R1S-qY-WBT.text" = "Tap here to park your car";
+
+/* Class = "UILabel"; text = "1,000,000,000 miles"; ObjectID = "VLf-pf-yvN"; */
+"VLf-pf-yvN.text" = "1,000,000,000 miles";
+
+/* Class = "UINavigationItem"; title = "Park My Car"; ObjectID = "Wyr-TU-j5P"; */
+"Wyr-TU-j5P.title" = "Park My Car";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "bQZ-qM-FRC"; */
+"bQZ-qM-FRC.title" = "Back";
+
+/* Class = "UINavigationItem"; title = "Park My Car"; ObjectID = "bli-Y7-EFP"; */
+"bli-Y7-EFP.title" = "Park My Car";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "i8U-gM-9Ry"; */
+"i8U-gM-9Ry.title" = "Back";
+
+/* Class = "UIBarButtonItem"; title = "Delete All"; ObjectID = "qfx-fg-2dp"; */
+"qfx-fg-2dp.title" = "Delete All";
+
+/* Class = "UIBarButtonItem"; title = "Clear All"; ObjectID = "uA3-mX-KWc"; */
+"uA3-mX-KWc.title" = "Clear All";
+
+/* Class = "UIButton"; normalTitle = "Park Car"; ObjectID = "vT1-Nv-dDj"; */
+"vT1-Nv-dDj.normalTitle" = "Park Car";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "yeL-Pg-6TW"; */
+"yeL-Pg-6TW.title" = "Map";

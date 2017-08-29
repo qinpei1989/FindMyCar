@@ -1,0 +1,51 @@
+
+/* Class = "UIBarButtonItem"; title = "Map"; ObjectID = "5fu-cj-5YI"; */
+"5fu-cj-5YI.title" = "地图";
+
+/* Class = "UILabel"; text = "Accuracy: ~1000 miles"; ObjectID = "9e3-0K-jVx"; */
+"9e3-0K-jVx.text" = "精度: ~1000 英里";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "ACT-Ah-HZd"; */
+"ACT-Ah-HZd.text" = "日期";
+
+/* Class = "UILabel"; text = "Tap one location to find your car"; ObjectID = "AhX-V7-SbS"; */
+"AhX-V7-SbS.text" = "选择一个停车点开始找车";
+
+/* Class = "UINavigationItem"; title = "Find My Car"; ObjectID = "BJn-ov-XJp"; */
+"BJn-ov-XJp.title" = "找车";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "C0e-I7-L2n"; */
+"C0e-I7-L2n.text" = "地址";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "EL0-Zs-rZS"; */
+"EL0-Zs-rZS.title" = "地图";
+
+/* Class = "UILabel"; text = "Tap here to park your car"; ObjectID = "R1S-qY-WBT"; */
+"R1S-qY-WBT.text" = "按此键来记录停车点";
+
+/* Class = "UILabel"; text = "1,000,000,000 miles"; ObjectID = "VLf-pf-yvN"; */
+"VLf-pf-yvN.text" = "1,000,000,000 英里";
+
+/* Class = "UINavigationItem"; title = "Park My Car"; ObjectID = "Wyr-TU-j5P"; */
+"Wyr-TU-j5P.title" = "停车";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "bQZ-qM-FRC"; */
+"bQZ-qM-FRC.title" = "返回";
+
+/* Class = "UINavigationItem"; title = "Park My Car"; ObjectID = "bli-Y7-EFP"; */
+"bli-Y7-EFP.title" = "停车";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "i8U-gM-9Ry"; */
+"i8U-gM-9Ry.title" = "返回";
+
+/* Class = "UIBarButtonItem"; title = "Delete All"; ObjectID = "qfx-fg-2dp"; */
+"qfx-fg-2dp.title" = "删除全部";
+
+/* Class = "UIBarButtonItem"; title = "Clear All"; ObjectID = "uA3-mX-KWc"; */
+"uA3-mX-KWc.title" = "删除全部";
+
+/* Class = "UIButton"; normalTitle = "Park Car"; ObjectID = "vT1-Nv-dDj"; */
+"vT1-Nv-dDj.normalTitle" = "记录当前位置";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "yeL-Pg-6TW"; */
+"yeL-Pg-6TW.title" = "地图";

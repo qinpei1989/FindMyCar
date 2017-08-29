@@ -1,0 +1,69 @@
+/* 
+  Localizable.strings
+  FindMyCar
+
+  Created by Pei Qin on 08/08/2017.
+  Copyright © 2017 Pei Qin. All rights reserved.
+*/
+/* Accuracy: ~ */
+"Accuracy: ~" = "Accuracy: ~";
+
+/* message of 'Delete All' UIAlertController */
+"All of your saved parking locations will be deleted!" = "All of your saved parking locations will be deleted!";
+
+/* Calculating your distance... */
+"Calculating your distance..." = "Calculating your distance...";
+
+/* Cancel */
+"Cancel" = "Cancel";
+
+/* title of 'No Route' UIAlertController */
+"Cannot find a route" = "Cannot find a route";
+
+/* Delete All */
+"Delete All" = "Delete All";
+
+/* title of 'Delete All' UIAlertController */
+"Delete All Locations" = "Delete All Locations";
+
+/* title of 'Delete Location' UIAlertController */
+"Delete This Location" = "Delete This Location";
+
+/* Done! */
+"Done!" = "Done!";
+
+/* title of 'Location Disabled' UIAlertController */
+"Location Services Disabled" = "Location Services Disabled";
+
+/* message of 'No Route' UIAlertController */
+"No routes to your destination can be found at this time. " = "No routes to your destination can be found at this time. ";
+
+/* OK */
+"OK" = "OK";
+
+/* Park Car */
+"Park Car" = "Park Car";
+
+/* message of 'Location Disabled' UIAlertController */
+"Please enable location services for this app in Settings" = "Please enable location services for this app in Settings";
+
+/* Route */
+"Route" = "Route";
+
+/* Stop */
+"Stop" = "Stop";
+
+/* Tap 'Park Car' to save your current location */
+"Tap 'Park Car' to save your current location" = "Tap 'Park Car' to save your current location";
+
+/* Tap here to park your car */
+"Tap here to park your car" = "Tap here to park your car";
+
+/* Tap one parking location ⬇︎ to find your car */
+"Tap one parking location ⬇︎ to find your car" = "Tap one parking location ⬇︎ to find your car";
+
+/* Tap to stop locating... */
+"Tap to stop locating..." = "Tap to stop locating...";
+
+/* (Unknown Place) */
+"(Unknown Place)" = "(Unknown Place)";

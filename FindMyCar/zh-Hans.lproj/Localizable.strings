@@ -1,0 +1,69 @@
+/* 
+  Localizable.strings
+  FindMyCar
+
+  Created by Pei Qin on 08/08/2017.
+  Copyright © 2017 Pei Qin. All rights reserved.
+*/
+/* Accuracy: ~ */
+"Accuracy: ~" = "精度: ~";
+
+/* message of 'Delete All' UIAlertController */
+"All of your saved parking locations will be deleted!" = "当前所有已保存的停车点将被删除!";
+
+/* Calculating your distance... */
+"Calculating your distance..." = "正在计算您到停车点的距离...";
+
+/* Cancel */
+"Cancel" = "取消";
+
+/* title of 'No Route' UIAlertController */
+"Cannot find a route" = "无法到达此处";
+
+/* Delete All */
+"Delete All" = "全部删除";
+
+/* title of 'Delete All' UIAlertController */
+"Delete All Locations" = "删除所有停车点";
+
+/* title of 'Delete Location' UIAlertController */
+"Delete This Location" = "删除此停车点";
+
+/* Done! */
+"Done!" = "记录成功!";
+
+/* title of 'Location Disabled' UIAlertController */
+"Location Services Disabled" = "定位服务已被禁用";
+
+/* message of 'No Route' UIAlertController */
+"No routes to your destination can be found at this time. " = "无法找到一条前往停车点的路线 ";
+
+/* OK */
+"OK" = "好";
+
+/* Park Car */
+"Park Car" = "记录当前位置";
+
+/* message of 'Location Disabled' UIAlertController */
+"Please enable location services for this app in Settings" = "请在'设置'中打开此app的定位服务";
+
+/* Route */
+"Route" = "前往此处";
+
+/* Stop */
+"Stop" = "停止定位";
+
+/* Tap 'Park Car' to save your current location */
+"Tap 'Park Car' to save your current location" = "按'记录当前位置'键来记录您此时的停车点";
+
+/* Tap here to park your car */
+"Tap here to park your car" = "按此键来记录停车点";
+
+/* Tap one parking location ⬇︎ to find your car */
+"Tap one parking location ⬇︎ to find your car" = "选择一个停车点⬇︎开始找车";
+
+/* Tap to stop locating... */
+"Tap to stop locating..." = "按此键停止定位...";
+
+/* (Unknown Place) */
+"(Unknown Place)" = "(未知地点)";
